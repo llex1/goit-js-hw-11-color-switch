@@ -1,0 +1,12 @@
+body {
+  background-color: ghostwhite;
+  transition: all 250ms linear;
+}
+
+.container {
+  padding: 10px;
+}
+.btn {
+  padding: 20px 40px;
+  cursor: pointer;
+}
